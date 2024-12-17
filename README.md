@@ -42,10 +42,6 @@ Aula(s) de referência(is): até e inclusive Tratamento de Exceções.
 
           * Interface - estrutura de dados - (0,5 ponto);
 
-          * Tratamento de Exceções (1,0 ponto ) --> ATENÇÃO: Deve construir pelo menos duas classes que gerem objetos a serem lançados,  métodos que os lances e os respectivos blocos try/catch. NÃO serão considerados para a pontuação:
-
-- o tratamento de exceção utilizado na classe Leitura;
-
-- uso de uso de NATIVAS (ex.: NumberFormatException, NullPointerException e etc.)."
+          * Tratamento de Exceções (1,0 ponto ) --> ATENÇÃO: Deve construir pelo menos duas classes que gerem objetos a serem lançados,  métodos que os lances e os respectivos blocos try/catch. NÃO serão considerados para a pontuação: o tratamento de exceção utilizado na classe Leitura; uso de uso de NATIVAS (ex.: NumberFormatException, NullPointerException e etc.)."
 
 
